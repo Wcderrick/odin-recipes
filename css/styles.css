@@ -1,0 +1,55 @@
+
+
+/*div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}*/
+
+.odd {
+    background-color: lightpink;
+    font-style: verdana;
+    
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+    display: flex;
+}
+
+.adjust-font {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
+
+.yellow, .black {
+    font-size: 24px;
+    font: helvetica;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
